@@ -1,6 +1,6 @@
 # NosEE
-NosEE is Number of Source estimate by Eigenvalue Error \\
-% Reference Authors: \\ 
+NosEE is Number of Source estimate by Eigenvalue Error 
+% Reference Authors: 
 % Soosan Beheshti (soosan@ee.ryerson.ca) and Saba Sedghizadeh
 % CITE:
 % "Number of Source Signal Estimation by the Mean Squared Eigenvalue Error."
